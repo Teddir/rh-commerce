@@ -5,6 +5,22 @@
       "bundler": "metro"
     },
     "name": "rh-commerce",
-    "slug": "rh-commerce"
+    "slug": "rh-commerce",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/af2a6f63-3f0a-4a12-99da-81e352b4009d"
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.keyted.rh_commerce"
+    },
+    "ios": {},
+    "extra": {
+      "eas": {
+        "projectId": "af2a6f63-3f0a-4a12-99da-81e352b4009d"
+      }
+    }
   }
 }
